@@ -15,13 +15,12 @@ build/
 *.swo
 
 # OS files
-../.DS_Store
 .DS_Store
 Thumbs.db
 
 # Scripts
-../backup.sh
-../kill_port.sh
+backup.sh
+kill_port.sh
 
 # Logs
 *.log
